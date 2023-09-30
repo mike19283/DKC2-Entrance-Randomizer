@@ -14,7 +14,10 @@
  / / / / / / / / ___/ //_/   \__ \/ __/ __ `/ ___/ __/
 / /_/ / /_/ / / /__/ ,<     ___/ / /_/ /_/ / /  / /_  
 \___\_\__,_/_/\___/_/|_|   /____/\__/\__,_/_/   \__/  
-                                                      
+
+
+https://www.romhacking.net/utilities/1487/
+
 "Randomize All" generates a seed completely at random for you. This does not take into consideration any options you pick. To use your chosen options, choose the "Randomize" button. All of the options are mostly self-explanatory. If you would like more elaboration, please continue reading. 
 
 You need a U 1.0 version of DKC2 for this.
